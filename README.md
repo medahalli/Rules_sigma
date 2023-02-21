@@ -11,11 +11,6 @@ Sigma is a generic and open signature format that allows you to describe relevan
 
 Sigma is for log files what [Snort](https://www.snort.org/) is for network traffic and [YARA](https://github.com/VirusTotal/yara) is for files.
 
-## SANS Webcast on MITRE ATT&CK® and Sigma
-
-The SANS webcast on Sigma contains a very good 20 min introduction to the project by John Hubbart from minute 39 onward. (SANS account required; registration is free)
-
-[MITRE ATT&CK® and Sigma Alerting Webcast Recording](https://www.sans.org/webcasts/mitre-att-ck-sigma-alerting-110010 "MITRE ATT&CK® and Sigma Alerting")
 
 # Use Cases
 
